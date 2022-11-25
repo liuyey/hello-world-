@@ -13,3 +13,6 @@ char* StrCpy(char* src)
    }
   return *scr1;
 }
+/**
+远程edit
+**/
